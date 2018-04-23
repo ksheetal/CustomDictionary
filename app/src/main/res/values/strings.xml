@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">DsQuestion4</string>
+    <string-array name="Fruit_name">
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Eye</item>
+        <item>Fog</item>
+        <item>Goat</item>
+        <item>Hen</item>
+        <item>Ice</item>
+        <item>Jam</item>
+        <item>Kite</item>
+        <item>Love</item>
+        <item>Monkey</item>
+        <item>Null</item>
+        <item>Owl</item>
+        <item>Parrot</item>
+        <item>Queen</item>
+        <item>Rat</item>
+        <item>Saturday</item>
+        <item>Ten</item>
+        <item>Umbrella</item>
+        <item>Van</item>
+        <item>Watch</item>
+        <item>Xmas</item>]
+        <item>Yogurt</item>
+        <item>Zebra</item>
+    </string-array>
+</resources>
